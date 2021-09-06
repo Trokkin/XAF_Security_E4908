@@ -27,7 +27,7 @@ Please research the information below, because additional prerequisites may appl
 - [Blazor Server App](/EFCore/ASP.NetCore/Blazor.ServerSide)
 - [Console App](/EFCore/Console)
 
-We detailed the main integration steps for any .NET Core application in [this video](https://youtu.be/o1q4GqFgSFE).
+We detailed the main integration steps for any .NET Core application in [this video](https://www.youtube.com/watch?v=o1q4GqFgSFE).
 
 ## Prerequisites
 
