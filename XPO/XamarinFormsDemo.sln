@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinFormsDemo", "Xamarin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsDemo.Android", "Xamarin.Forms\XamarinFormsDemo.Android\XamarinFormsDemo.Android.csproj", "{DC51519F-F680-43DA-93B2-9BAF7E010A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsDemo.iOS", "Xamarin.Forms\XamarinFormsDemo.iOS\XamarinFormsDemo.iOS.csproj", "{1EEBD49A-670E-4810-9709-F4A7FBFACC49}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,22 +125,6 @@ Global
 		{DC51519F-F680-43DA-93B2-9BAF7E010A78}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{DC51519F-F680-43DA-93B2-9BAF7E010A78}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{DC51519F-F680-43DA-93B2-9BAF7E010A78}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Debug|iPhone.Build.0 = Debug|iPhone
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.EasyTest|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.EasyTest|Any CPU.Build.0 = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.EasyTest|iPhone.ActiveCfg = Debug|iPhone
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.EasyTest|iPhone.Build.0 = Debug|iPhone
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.EasyTest|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.EasyTest|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Release|iPhone.ActiveCfg = Release|iPhone
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Release|iPhone.Build.0 = Release|iPhone
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{1EEBD49A-670E-4810-9709-F4A7FBFACC49}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
