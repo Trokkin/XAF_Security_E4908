@@ -64,5 +64,6 @@
     <PackageReference Include="DevExpress.ExpressApp.EFCore" Version="21.1.6" />
     <PackageReference Include="DevExpress.ExpressApp.Security.Xpo" Version="21.1.6" />
     <PackageReference Include="DevExpress.Persistent.BaseImpl" Version="21.1.6" />
+    <PackageReference Include="DevExpress.Data" Version="21.1.6" />
   </ItemGroup>
 </Project>
